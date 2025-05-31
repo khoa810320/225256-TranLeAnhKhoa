@@ -1,2 +1,4 @@
 Name: Your Name
 Interests: Coding, Design
+Skills: Python, Git, HTML
+h
